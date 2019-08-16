@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   class="svg-icon ethernet"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="ethernet.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="svg-icon from https://github.com/luc-github/svg-icons">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1010"
+     inkscape:window-height="678"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <g
+     id="ethernet">
+    <path
+       style="fill:none;stroke-width:1.69745648"
+       d="m 1.8317785,15.001271 c 2.6093223,0 5.2186445,0 7.8279667,0 0,1.524577 0,3.049154 0,4.57373 -2.6093222,0 -5.2186444,0 -7.8279667,0 0,-1.524576 0,-3.049153 0,-4.57373 z"
+       id="rect3795-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke-width:1.69745648"
+       d="m 14.492797,15.00127 c 2.609322,0 5.218644,0 7.827967,0 0,1.524577 0,3.049154 0,4.57373 -2.609323,0 -5.218645,0 -7.827967,0 0,-1.524576 0,-3.049153 0,-4.57373 z"
+       id="rect3795-0-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke-width:1.69745648"
+       d="m 7.7809319,2.187711 c 2.6093221,0 5.2186441,0 7.8279671,0 0,1.5245767 0,3.0491533 0,4.57373 -2.609323,0 -5.218645,0 -7.8279671,0 0,-1.5245767 0,-3.0491533 0,-4.57373 z"
+       id="rect3795-0-81"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke-width:1.77660692"
+       d="m 1.3980607,10.888792 c 6.9552294,0 13.9104593,0 20.8656883,0 -0.162652,0.202049 -0.699986,0.02942 -1.007279,0.08682 -6.61947,0 -13.2389396,0 -19.8584093,0 v -0.05925 z"
+       id="rect3833"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke-width:1.27550995"
+       d="m 11.932237,7.015811 c -0.02263,1.3798194 -0.04525,2.7596385 -0.06787,4.139458 -0.4407,0.103256 -0.126662,-0.596979 -0.211276,-0.872811 0.01776,-1.0829251 0.03551,-2.1658506 0.05327,-3.2487763 0.07529,-0.00596 0.150588,-0.011914 0.225881,-0.017871 z"
+       id="rect3833-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke-width:1.27550995"
+       d="m 5.9434875,10.836589 c -0.022625,1.37982 -0.045249,2.759639 -0.067874,4.139459 -0.4406994,0.103255 -0.126662,-0.59698 -0.2112764,-0.872811 0.017756,-1.082926 0.035513,-2.165851 0.05327,-3.248777 0.075294,-0.006 0.1505873,-0.01191 0.2258808,-0.01787 z"
+       id="rect3833-9-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke-width:1.27550995"
+       d="m 18.384166,10.938285 c -0.02263,1.379819 -0.04525,2.759639 -0.06787,4.139459 -0.440699,0.103256 -0.126662,-0.596979 -0.211277,-0.872811 0.01776,-1.082925 0.03551,-2.165851 0.05327,-3.248777 0.07529,-0.006 0.150587,-0.01191 0.225881,-0.01787 z"
+       id="rect3833-9-1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

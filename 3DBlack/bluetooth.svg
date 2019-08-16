@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   class="svg-icon bluetooth"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="bluetooth.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="svg-icon from https://github.com/luc-github/svg-icons">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1302"
+     inkscape:window-height="942"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12"
+     inkscape:cy="12.812532"
+     inkscape:window-x="342"
+     inkscape:window-y="97"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     style="fill:#000000;stroke:none;stroke-width:0.13164501"
+     d="m 13.05572,6.22826 c 0.612703,0.64688 1.225407,1.29376 1.83811,1.94064 -0.612327,0.6463567 -1.224653,1.2927133 -1.83698,1.93907 -3.77e-4,-1.2932367 -7.53e-4,-2.5864733 -0.0011,-3.87971 z m 0,11.87961 c 0.612703,-0.64675 1.225407,-1.2935 1.83811,-1.94025 -0.612327,-0.646483 -1.224653,-1.292967 -1.83698,-1.93945 -3.77e-4,1.293233 -7.53e-4,2.586467 -0.0011,3.8797 z M 11.09319,12.16806 C 9.7686833,10.766087 8.4441767,9.3641133 7.11967,7.96214 7.5035733,7.5569467 7.8874767,7.1517533 8.27138,6.74656 c 1.05513,1.1145133 2.11026,2.2290267 3.16539,3.34354 0,-2.6708667 0,-5.3417333 0,-8.0126 1.91892,2.02584 3.83784,4.05168 5.75676,6.07752 -1.267007,1.33768 -2.534013,2.67536 -3.80102,4.01304 1.267257,1.338083 2.534513,2.676167 3.80177,4.01425 -1.919047,2.025837 -3.838093,4.051673 -5.75714,6.07751 0,-2.671 0,-5.342 0,-8.013 -1.055373,1.114647 -2.1107467,2.229293 -3.16612,3.34394 -0.38391,-0.405457 -0.76782,-0.810913 -1.15173,-1.21637 1.3246333,-1.40211 2.6492667,-2.80422 3.9739,-4.20633 z m 1.06453,11.73674 c 2.318889,0.06206 4.839294,-0.714543 6.183193,-2.72596 1.701093,-2.497215 1.941399,-5.646205 2.013284,-8.57937 C 20.345717,9.5249131 20.197589,6.2468951 18.589742,3.5325281 17.429038,1.5123655 15.092479,0.49033062 12.83021,0.44941321 10.450997,0.29757836 7.7783695,0.83473002 6.2373125,2.8128788 4.4120486,5.148665 4.0925691,8.2472196 3.9725097,11.109695 c -0.040832,3.171014 0.048919,6.532361 1.5753841,9.395816 1.013531,1.963184 3.1156508,3.169519 5.2858472,3.33144 0.439579,0.04778 0.881906,0.06781 1.323979,0.06785 z"
+     id="bluetooth"
+     inkscape:connector-curvature="0" />
+</svg>
