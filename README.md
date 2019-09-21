@@ -7,7 +7,9 @@ In many projects I handle, I always miss 3D printer related icons and even some 
 
 The first sets are simple and black. 
 * Network icons
+<img src="https://raw.githubusercontent.com/luc-github/svg-icons/master/networkfonts/snap.png" />
 * 3D Printer icons
+<img src="https://raw.githubusercontent.com/luc-github/svg-icons/master/3Dprinterfonts/snap.png" />
 
 The idea is to have one place to store and improve icons, I am not graphical designer so be patient ^_^ , I need time to get the right design and master the svg and font tools:
 * [Inkscape](https://inkscape.org)
